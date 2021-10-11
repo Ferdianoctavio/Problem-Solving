@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-public class FollowMouse : MonoBehaviour
+public class BallControl : MonoBehaviour
 {
     public float distance = 1.0f;
     public bool useInitalCameraDistance = false;
